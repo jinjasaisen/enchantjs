@@ -1,7 +1,7 @@
 # enchatjs
 examples of enchantjs
 
-# br2
+## bear bear example.
 
 modifying bear example.
 
